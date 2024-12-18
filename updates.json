@@ -1,8 +1,8 @@
 [
     {
-        "ident": "casingmode",
+        "ident": "Casing_Mode",
         "version": "1.1",
-        "download_url": "https://github.com/pasaldo/Casing_Mode/raw/refs/heads/main/updates/casingmode.zip"
+        "patchnotes_url": "https://github.com/pasaldo/Casing_Mode/raw/main/patchnotes.html",
+        "download_url": "https://github.com/pasaldo/Casing_Mode/raw/main/Casing_Mode.zip"
     }
 ]
-
