@@ -12,7 +12,7 @@ The **Casing Mode Mod** enhances the stealth experience in PAYDAY 2 by allowing 
 - **Automatic detection by civilians:** When in the `Casing_Mode_Ticker_Clean` state, civilians detect the player automatically. This is a known bug currently under investigation.
 
 ## Installation
-1. **Download the mod files.**
+1. **Download the mod ZIP file.**
 2. **Extract the contents** of the zip file to your PAYDAY 2 mods folder:
    ```
    PAYDAY 2\mods
